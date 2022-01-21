@@ -6,5 +6,11 @@ class CustomPlugin(Plugin):
 
     # Process
 
+    def process_document(self, document):
+        pass
+
+    def process_snippet(self, snippet):
+        pass
+
     def process_markup(self, markup):
-        markup.add_markup("<span>(template)<span>", target="h1")
+        pass

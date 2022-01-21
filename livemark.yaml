@@ -1,10 +1,10 @@
 brand:
-  text: Livemark Project
+  text: Learning Python
 about:
-  text: A Livemark project template
+  text: A software education example written in Livemark
 github:
   user: frictionlessdata
-  repo: livemark-project
+  repo: learning-python
 topics:
   selector: h2
 site:
@@ -16,8 +16,7 @@ site:
 pages:
   items:
     - path: index
-    - path: pages/data
-    - path: pages/contrib
+      name: Introduction
 links:
   items:
     - name: Frictionless

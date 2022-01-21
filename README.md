@@ -1,4 +1,4 @@
-# Livemark Project (template)
+# Learning Python
 
 Livemark project template:
-- https://frictionlessdata.github.io/livemark-project
+- https://frictionlessdata.github.io/learning-python/
